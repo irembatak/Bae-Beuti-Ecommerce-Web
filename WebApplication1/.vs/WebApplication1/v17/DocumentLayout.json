@@ -1,0 +1,852 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\models\\storesearchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\storesearchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\migrations\\20240602114624_productupdate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240602114624_productupdate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_MEJ4PH4_SQLEXPRESS/iremDb/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\migrations\\20240602122131_productscolordelete.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240602122131_productscolordelete.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\migrations\\20240602115357_deletesub.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240602115357_deletesub.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\migrations\\20240602105254_updateproductv2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240602105254_updateproductv2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\migrations\\20240602105254_updateproductv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240602105254_updateproductv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\models\\passworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\passworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\models\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\models\\checkoutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\checkoutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\views\\clientorders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\clientorders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\controllers\\clientordercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\clientordercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\views\\clientorders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\clientorders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\controllers\\adminorderscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\adminorderscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\views\\adminorders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\adminorders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\views\\adminorders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\adminorders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_MEJ4PH4_SQLEXPRESS/iremDb/True/SqlTable/dbo.OrderItems.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_MEJ4PH4_SQLEXPRESS/iremDb/True/SqlTable/dbo.Orders.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\views\\cart\\confirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\cart\\confirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\services\\carthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\carthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\views\\account\\password.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\account\\password.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\migrations\\20240602115357_deletesub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240602115357_deletesub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\irem\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20240602104827_UpdateProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\migrations\\20240601225518_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240601225518_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\irem\\AppData\\Local\\Temp\\snwyz53o..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\migrations\\20240602123026_filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240602123026_filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\migrations\\20240602122131_productscolordelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240602122131_productscolordelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\migrations\\20240602114624_productupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240602114624_productupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\irem\\documents\\github\\e-commerce\\e-commerce\\webapplication1\\webapplication1\\migrations\\20240602105050_updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0548C7-6CA3-468D-B532-9D725C47C9A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240602105050_updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAWwFUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T12:35:07.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T17:35:04.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Users\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T18:43:44.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAuwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T22:45:34.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Controllers\\CartController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:27:50.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T14:19:03.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\StoreController.cs",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\StoreController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAmwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:40:29.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Views\\Store\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Store\\Index.cshtml",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Views\\Store\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Store\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T19:44:50.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:34:01.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StoreSearchModel.cs",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Models\\StoreSearchModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\StoreSearchModel.cs",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Models\\StoreSearchModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\StoreSearchModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:46:22.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T20:41:35.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Views\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Users\\Details.cshtml",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Views\\Users\\Details.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Users\\Details.cshtml",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAIMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T19:06:46.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Models\\Product.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T22:46:41.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240602114624_productupdate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Migrations\\20240602114624_productupdate.Designer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240602114624_productupdate.Designer.cs",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Migrations\\20240602114624_productupdate.Designer.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240602114624_productupdate.Designer.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:41:30.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dbo.Products [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_MEJ4PH4_SQLEXPRESS/iremDb/True/SqlTable/dbo.Products.sql",
+              "ToolTip": "dbo.Products [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-06T20:53:38.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240602115357_deletesub.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Migrations\\20240602115357_deletesub.Designer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240602115357_deletesub.Designer.cs",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Migrations\\20240602115357_deletesub.Designer.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240602115357_deletesub.Designer.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:41:31.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240602122131_productscolordelete.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Migrations\\20240602122131_productscolordelete.Designer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240602122131_productscolordelete.Designer.cs",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Migrations\\20240602122131_productscolordelete.Designer.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240602122131_productscolordelete.Designer.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:41:31.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAD4BAAAAAAAAAAAAAD4BAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:41:35.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240602105254_UpdateProductv2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Migrations\\20240602105254_UpdateProductv2.Designer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240602105254_UpdateProductv2.Designer.cs",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Migrations\\20240602105254_UpdateProductv2.Designer.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240602105254_UpdateProductv2.Designer.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:41:29.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Models\\ProductDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Models\\ProductDto.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T13:19:36.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240602105254_UpdateProductv2.cs",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Migrations\\20240602105254_UpdateProductv2.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240602105254_UpdateProductv2.cs",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Migrations\\20240602105254_UpdateProductv2.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240602105254_UpdateProductv2.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAAE0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T10:52:54.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Models\\ProfileDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ProfileDto.cs",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Models\\ProfileDto.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ProfileDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:26:57.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Services\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Services\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T22:49:43.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CheckoutDto.cs",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Models\\CheckoutDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\CheckoutDto.cs",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Models\\CheckoutDto.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\CheckoutDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:38:54.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Models\\PasswordDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\PasswordDto.cs",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Models\\PasswordDto.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\PasswordDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:37:16.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Models\\OrderItem.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:43:19.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Models\\Order.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:40:56.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:40:17.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Confirm.cshtml",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Views\\Cart\\Confirm.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Cart\\Confirm.cshtml",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Views\\Cart\\Confirm.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Cart\\Confirm.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T17:55:15.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "dbo.Orders [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_MEJ4PH4_SQLEXPRESS/iremDb/True/SqlTable/dbo.Orders.sql",
+              "ToolTip": "dbo.Orders [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-05T17:56:53.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "dbo.OrderItems [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_MEJ4PH4_SQLEXPRESS/iremDb/True/SqlTable/dbo.OrderItems.sql",
+              "ToolTip": "dbo.OrderItems [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-05T17:57:07.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminOrdersControllers.cs",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Controllers\\AdminOrdersControllers.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AdminOrdersControllers.cs",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Controllers\\AdminOrdersControllers.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AdminOrdersControllers.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwFwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:58:41.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Views\\AdminOrders\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\AdminOrders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Views\\AdminOrders\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\AdminOrders\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T17:59:48.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Views\\ClientOrders\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\ClientOrders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Views\\ClientOrders\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\ClientOrders\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T18:09:00.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Views\\AdminOrders\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\AdminOrders\\Details.cshtml",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Views\\AdminOrders\\Details.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\AdminOrders\\Details.cshtml",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAswH8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T18:03:32.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Views\\ClientOrders\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\ClientOrders\\Details.cshtml",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Views\\ClientOrders\\Details.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\ClientOrders\\Details.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T18:09:50.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ClientOrderControllers.cs",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Controllers\\ClientOrderControllers.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ClientOrderControllers.cs",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Controllers\\ClientOrderControllers.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ClientOrderControllers.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwDkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:08:15.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CartHelper.cs",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Services\\CartHelper.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\CartHelper.cs",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Services\\CartHelper.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\CartHelper.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwEQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:19:45.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAmwHsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T12:49:26.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAQwE0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:41:28.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Account\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Account\\Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T18:24:24.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAuwOAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:23:36.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-01T22:45:37.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-04T18:47:25.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Password.cshtml",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Views\\Account\\Password.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Account\\Password.cshtml",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Views\\Account\\Password.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Account\\Password.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T18:36:41.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20240602123026_filename.cs",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Migrations\\20240602123026_filename.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240602123026_filename.cs",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Migrations\\20240602123026_filename.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240602123026_filename.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:30:26.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20240602122131_productscolordelete.cs",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Migrations\\20240602122131_productscolordelete.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240602122131_productscolordelete.cs",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Migrations\\20240602122131_productscolordelete.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240602122131_productscolordelete.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:21:31.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20240602115357_deletesub.cs",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Migrations\\20240602115357_deletesub.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240602115357_deletesub.cs",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Migrations\\20240602115357_deletesub.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240602115357_deletesub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:53:57.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20240602114624_productupdate.cs",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Migrations\\20240602114624_productupdate.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240602114624_productupdate.cs",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Migrations\\20240602114624_productupdate.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240602114624_productupdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:46:24.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20240602105050_UpdateProduct.cs",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Migrations\\20240602105050_UpdateProduct.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240602105050_UpdateProduct.cs",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Migrations\\20240602105050_UpdateProduct.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240602105050_UpdateProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T10:50:50.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20240602104827_UpdateProduct.cs",
+              "DocumentMoniker": "C:\\Users\\irem\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20240602104827_UpdateProduct.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20240602104827_UpdateProduct.cs",
+              "ToolTip": "C:\\Users\\irem\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20240602104827_UpdateProduct.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20240602104827_UpdateProduct.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T10:48:27.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20240601225518_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Migrations\\20240601225518_FirstMigration.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240601225518_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\irem\\Documents\\GitHub\\E-Commerce\\E-Commerce\\WebApplication1\\WebApplication1\\Migrations\\20240601225518_FirstMigration.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240601225518_FirstMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T22:55:18.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\irem\\AppData\\Local\\Temp\\snwyz53o..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\snwyz53o..sql",
+              "ToolTip": "SQLQuery1.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-02T10:38:55.905Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
